@@ -43,6 +43,10 @@ Ex: npm run build
 13) to start the node js server
 Ex: npm start
 
+14)add dependency into package.json
+ex: npm install express --save
+
+
 
 
 	
