@@ -32,3 +32,10 @@ draw backs os node js:
 1.duplicates of styles,no style.css
 2.have to use fs module to display the data.
 3.no clear separation of http, type of response no clear sepreation.
+
+==========================================================================================================================
+EXPRESS JS:
+-------------------------------------
+1.third party module of node js.
+2.efficent working...
+
