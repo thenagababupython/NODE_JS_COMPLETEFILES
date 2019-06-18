@@ -18,3 +18,17 @@ facebook.com -----. domain name--->dns(Domain Name System)
 /profile ---> profile.html
 ------------>  data store at "url"
 
+
+mvc---model views controller---its has mvc structure
+  m--- model--data
+  v---views---design
+  c---controller---proceesing data
+  
+ ---------------------------> (nodemon app.js)
+
+
+draw backs os node js:
+================================================================================================================
+1.duplicates of styles,no style.css
+2.have to use fs module to display the data.
+3.no clear separation of http, type of response no clear sepreation.
