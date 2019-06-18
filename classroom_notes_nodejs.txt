@@ -8,4 +8,13 @@ CLASS ROMM NOTES
  
  
 facebook.com -----. domain name--->dns(Domain Name System)
-1. restart the server ---->nodemon
+1. restart the server ---->nodemon(https://www.npmjs.com/package/nodemon)
+2.npm install -g nodemon (install first)
+3.
+
+/ ---> about.html
+/contact ---> contact.html
+/services ---> services.html
+/profile ---> profile.html
+------------>  data store at "url"
+
