@@ -1,2 +1,11 @@
 CLASS ROMM NOTES
 ========================================================================================================================================
+/*
+    1) Creating Servers
+    2) Serving HTML data
+    3) Serving JSON data
+ */
+ 
+ 
+facebook.com -----. domain name--->dns(Domain Name System)
+1. restart the server ---->nodemon
